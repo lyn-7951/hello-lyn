@@ -21,3 +21,6 @@ rootProject.name = "Happy Birthday"
 include ':app'
 include ':myapplication'
 include ':diceroller'
+include ':tiptime'
+include ':myapplication2'
+include ':affirmations'
