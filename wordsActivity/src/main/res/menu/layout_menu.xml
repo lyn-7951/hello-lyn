@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:ignore="ExtraText">
+    <!--title:有助于屏幕阅读器识别菜单
+        icon:
+        showAsAction:如何显示按钮-->
+    <item android:id="@+id/action_switch_layout"
+        android:title="@string/action_switch_layout"
+        android:icon="@drawable/ic_linear_layout"
+        app:showAsAction="always" />>
+
+</menu>
