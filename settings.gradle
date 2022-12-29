@@ -5,9 +5,9 @@ pluginManagement {
         mavenCentral()
     }
     plugins {
-        id 'com.android.application' version '7.1.0-alpha08'
-        id 'com.android.library' version '7.1.0-alpha08'
-        id 'org.jetbrains.kotlin.android' version '1.5.20'
+        id 'com.android.application' version '7.2.2'
+        id 'com.android.library' version '7.2.2'
+        id 'org.jetbrains.kotlin.android' version '1.7.10'
     }
 }
 dependencyResolutionManagement {
@@ -15,6 +15,7 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        maven { url 'https://jitpack.io'}
     }
 }
 rootProject.name = "Happy Birthday"
@@ -25,4 +26,7 @@ include ':tiptime'
 include ':myapplication2'
 include ':affirmations'
 include ':dogglers'
-include ':words'
+include ':wordsNavigation'
+include ':dessertclicker'
+include ':wordsFragment'
+include ':wordsActivity'

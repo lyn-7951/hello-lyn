@@ -12,15 +12,17 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/affirmations" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/dessertclicker" />
             <option value="$PROJECT_DIR$/diceroller" />
             <option value="$PROJECT_DIR$/dogglers" />
             <option value="$PROJECT_DIR$/myapplication" />
             <option value="$PROJECT_DIR$/myapplication2" />
             <option value="$PROJECT_DIR$/tiptime" />
-            <option value="$PROJECT_DIR$/words" />
+            <option value="$PROJECT_DIR$/wordsActivity" />
+            <option value="$PROJECT_DIR$/wordsFragment" />
+            <option value="$PROJECT_DIR$/wordsNavigation" />
           </set>
         </option>
-        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
