@@ -43,7 +43,7 @@ val currentScrambledWord: LiveData<Spannable> = Transformations.map(_currentScra
 
     private var wordsList: MutableList<String> = mutableListOf()//所有单词
     private lateinit var currentWord: String//当前正确的单词
-   
+
 
     private fun getNextWord() {
         currentWord = allWordsList.random()//随机选一个单词
