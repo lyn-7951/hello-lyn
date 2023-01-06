@@ -54,9 +54,9 @@ class GameFragment : Fragment() {
 //    对按钮进行监听并渲染界面
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-
         binding.gameViewModel=viewModel
         binding.maxNoOfWords= MAX_NO_OF_WORDS
+
         binding.lifecycleOwner=viewLifecycleOwner
 
         // Setup a click listener for the Submit and Skip buttons.
