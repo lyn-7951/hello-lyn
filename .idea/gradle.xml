@@ -7,6 +7,7 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="Android Studio default JDK" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -17,8 +18,10 @@
             <option value="$PROJECT_DIR$/dessertclicker" />
             <option value="$PROJECT_DIR$/diceroller" />
             <option value="$PROJECT_DIR$/dogglers" />
+            <option value="$PROJECT_DIR$/lunch tray" />
             <option value="$PROJECT_DIR$/myapplication" />
             <option value="$PROJECT_DIR$/myapplication2" />
+            <option value="$PROJECT_DIR$/sports" />
             <option value="$PROJECT_DIR$/tiptime" />
             <option value="$PROJECT_DIR$/wordsActivity" />
             <option value="$PROJECT_DIR$/wordsFragment" />
