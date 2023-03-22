@@ -16,6 +16,7 @@ dependencyResolutionManagement {
         google()
         mavenCentral()
         maven { url 'https://jitpack.io'}
+//        maven { url 'https://dl.bintray.com/kotlin/kotlin-eap'}
     }
 }
 rootProject.name = "Happy Birthday"
@@ -36,3 +37,7 @@ include ':sports'
 include ':lunch tray'
 include ':mars photos'
 include ':amphibians'
+include ':debugging'
+include ':sql'
+include ':bus-schedule'
+include ':inventory'
